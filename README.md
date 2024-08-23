@@ -1,7 +1,7 @@
 # Repo-Ejemplo-Alura
 
-- Estado del protyecto: En construcción.
+- Estado del proyecto: En construcción.
 
-Para ejecutar el sistema, debes poner:
+- Para ejecutar el sistema, debes poner:
 
 ```npm install react```
